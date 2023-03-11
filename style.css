@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:200,100,400');
+
+body{
+  height: 100vh;
+  font-family:'Raleway',sans-serif;
+  background: #333 url('hd\ wallpaper\ TheWallpaperDB.blogspot.com\ +1\ \(1\).jpg') no-repeat center center / cover;
+  color: #ccc;
+  overflow: hidden;
+}
